@@ -9,7 +9,7 @@
        * GitHub username 4:
        * GitHub username 5:
    * When did you complete this exercise? 
-   * How long did it take your team to complete this exercise? 
+   * How long did it take your team to complete this exercise?
 
 ## Table of Contents
 
