@@ -17,9 +17,9 @@ and missed deadlines.
 
 
 
-## How will will communicate difficulties with a task assigned to us
+## How will we communicate difficulties with a task assigned to us
 
-
+We will discuss difficulties in group and potential solutions to these difficulties. We will contact the instructor when needed/appropriate. Roadblocks should be voiced early so they can be addressed promptly.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
