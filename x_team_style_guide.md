@@ -1,6 +1,6 @@
 # X-Team 58 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+Style guides improve readibility and uniformity of code and make it easier to understand what each component of the code does.
 
 ## Naming conventions
 
