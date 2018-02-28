@@ -36,7 +36,7 @@ such as the first letter of the name for interfaces and classes should also be c
 
 * classes
 /**
- * This balanced search tree class implements SearchTreeADT with the type of AVL
+/ * This balanced search tree class implements SearchTreeADT with the type of AVL
  * to sort items. This data type enables to achieve O(logN) for lookup, insert, 
  * and delete operations. 
  */
