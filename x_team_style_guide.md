@@ -73,6 +73,6 @@ public class BalancedSearchTree<T extends Comparable<T>> implements SearchTreeAD
    Use tabs/spaces to indicate the level of nesting. Indentation occurs in fixed-width intervals, four whitespaces specifically. 
    
   statement header {
-      \nbody
-      \nbody
-  \n}
+      body
+      body
+  }
