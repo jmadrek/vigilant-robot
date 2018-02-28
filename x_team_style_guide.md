@@ -39,9 +39,6 @@ such as the first letter of the name for interfaces and classes should also be c
  * This balanced search tree class implements SearchTreeADT with the type of AVL
  * to sort items. This data type enables to achieve O(logN) for lookup, insert, 
  * and delete operations. 
- * @author    Maggie Guo, Emma He
- * @param <T> comparable generic type
- * @version   1.0
  */
 public class BalancedSearchTree<T extends Comparable<T>> implements SearchTreeADT<T> {
 * fields
