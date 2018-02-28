@@ -34,34 +34,10 @@ such as the first letter of the name for interfaces and classes should also be c
 
 ### Examples
 
-* classes
-/**
- * This balanced search tree class implements SearchTreeADT with the type of AVL
- * to sort items. This data type enables to achieve O(logN) for lookup, insert, 
- * and delete operations. 
- */
-public class BalancedSearchTree<T extends Comparable<T>> implements SearchTreeADT<T> {
-* fields
-	// key: variable to store the value of this node
-	// left: pointer variable pointing to its left child
-	// right: pointer variable pointing to its right child
-	K key;
- Treenode<K> left;
- Treenode<K> right;
-* constructors
-		/**
-	 * Constructor to initialize node
-	 * <p>
-	 * @param item: value to store in the new node
-	 * @param left: pointer pointing to its left child
-	 * @param right: pointer pointing to its right child
-	 */
-		public Treenode(K item, Treenode<K> left, Treenode<K> right) {    
-			key = item;
-			this.left = left;
-			this.right = right;
-		}
-* methods
+* classes - use Javadoc formatting before each constructor
+* fields // key: variable to store the value of this node
+* constructors  - use Javadoc formatting before each constructor
+* methods  - use Javadoc formatting before each constructor
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements - bracket same line as statement header end bracket new line
   * switch statement - bracket same line as statement header end bracket new line
