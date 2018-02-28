@@ -38,29 +38,10 @@ such as the first letter of the name for interfaces and classes should also be c
 * fields
 	// key: variable to store the value of this node
 	
-	// left: pointer variable pointing to its left child
-	
-	// right: pointer variable pointing to its right child
-	
 	K key;
 
- Treenode<K> left;
- 
- Treenode<K> right;
-* constructors
-		/**
-	 * Constructor to initialize node
-	 * <p>
-	 * @param item: value to store in the new node
-	 * @param left: pointer pointing to its left child
-	 * @param right: pointer pointing to its right child
-	 */
-		public Treenode(K item, Treenode<K> left, Treenode<K> right) {    
-			key = item;
-			this.left = left;
-			this.right = right;
-		}
-* methods
+* constructors - use Javadoc formatting before each constructor
+* methods - use Javadoc formatting before each constructor
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
   * switch statement
