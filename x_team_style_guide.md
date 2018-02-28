@@ -1,21 +1,22 @@
 # X-Team 58 Style Guide
 
-Style guides improve readibility and uniformity of code and make it easier to understand what each component of the code does.
+<brief description of your team's opinion or philosophy regarding Style Guides>
 
 ## Naming conventions
 
-<brief statement describing your team's naming conventions>
+Capitalized for the first letter of each word starting from the second. It may change, depending on specific scenarios, 
+such as the first letter of the name for interfaces and classes should also be capitalized.
 
 ### Examples
-* interfaces
-* classes
-* exception types
-* fields
-* methods
-* parameters
-* local variables
-* instance constants
-* class constants
+* interfaces    Eg. BinarySearchTreeADT, PriorityQueueADT
+* classes   Eg. NodeTree, Node
+* exception types    Eg. DuplicateKeyExceptions, RuntimeException    
+* fields    Eg. data, ptr
+* methods    Eg. deleteFirstItem, insertIntegerOnly
+* parameters    Eg. sizeOfArray, 
+* local variables    Eg. numOfInput, 
+* instance constants    Eg. 
+* class constants    Eg. PIE_VALUE, MIN_INTEGER
 
 ## Commenting style for public and private members of a class or interface:
 
