@@ -34,10 +34,10 @@ such as the first letter of the name for interfaces and classes should also be c
 
 ### Examples
 
-* classes - use Javadoc formatting before each constructor
+* classes - use Javadoc formatting before each class
 * fields // key: variable to store the value of this node
 * constructors  - use Javadoc formatting before each constructor
-* methods  - use Javadoc formatting before each constructor
+* methods  - use Javadoc formatting before each method
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements - bracket same line as statement header end bracket new line
   * switch statement - bracket same line as statement header end bracket new line
