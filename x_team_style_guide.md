@@ -13,9 +13,9 @@ such as the first letter of the name for interfaces and classes should also be c
 * exception types    Eg. DuplicateKeyExceptions, RuntimeException    
 * fields    Eg. data, ptr
 * methods    Eg. deleteFirstItem, insertIntegerOnly
-* parameters    Eg. sizeOfArray, 
-* local variables    Eg. numOfInput, 
-* instance constants    Eg. 
+* parameters    Eg. sizeOfArray, listOfParents
+* local variables    Eg. numOfInput, counter
+* instance constants    Eg. MAX_NUM
 * class constants    Eg. PIE_VALUE, MIN_INTEGER
 
 ## Commenting style for public and private members of a class or interface:
