@@ -14,7 +14,7 @@ such as the first letter of the name for interfaces and classes should also be c
 	Eg. NodeTree, Node
 * exception types
 	Eg. DuplicateKeyExceptions, RuntimeException    
-* fields
+//* fields
 	Eg. data, ptr
 * methods
 	Eg. deleteFirstItem, insertIntegerOnly
