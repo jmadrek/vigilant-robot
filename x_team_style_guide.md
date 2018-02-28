@@ -34,23 +34,18 @@ such as the first letter of the name for interfaces and classes should also be c
 
 ### Examples
 
-* classes
-
-/**
-
-*  This balanced search tree class implements SearchTreeADT with the type of AVL
-
-*  to sort items. This data type enables to achieve O(logN) for lookup, insert, 
-
-*  and delete operations. 
- */
-public class BalancedSearchTree<T extends Comparable<T>> implements SearchTreeADT<T> {
+* classes - use Javadoc formatting before each class
 * fields
 	// key: variable to store the value of this node
+	
 	// left: pointer variable pointing to its left child
+	
 	// right: pointer variable pointing to its right child
+	
 	K key;
+
  Treenode<K> left;
+ 
  Treenode<K> right;
 * constructors
 		/**
