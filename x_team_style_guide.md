@@ -63,11 +63,11 @@ public class BalancedSearchTree<T extends Comparable<T>> implements SearchTreeAD
 		}
 * methods
 * coding style (brackets, horizontal, and vertical spacing) for:
-  * if statements
-  * switch statement
-  * while loops
-  * for loops
-  * enhanced for loops
+  * if statements - bracket same line as statement header end bracket new line
+  * switch statement - bracket same line as statement header end bracket new line
+  * while loops - bracket same line as statement header end bracket new line
+  * for loops - bracket same line as statement header end bracket new line
+  * enhanced for loops - bracket same line as statement header end bracket new line
   
    Selection and looping statements do not require braces if their body contains only one statement.
    Use tabs/spaces to indicate the level of nesting. Indentation occurs in fixed-width intervals, four whitespaces specifically. 
